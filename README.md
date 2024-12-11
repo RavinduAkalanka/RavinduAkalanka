@@ -72,24 +72,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🌟 Featured Projects
-
-1. **[Business Directory App (CRUD)](https://github.com/your-username/project-1)**
-   - 📝 A mobile app for business directory management with CRUD operations and image upload.
-   - 🛠️ **Tech Stack**: React Native, Firebase, TailwindCSS
-
-2. **[Job-Finding SaaS Platform](https://github.com/your-username/project-2)**
-   - 📝 A SaaS product for job matching and resume filtering.
-   - 🛠️ **Tech Stack**: React, Node.js, MongoDB
-
-3. **[Bug Tracking System](https://github.com/your-username/project-3)**
-   - 📝 A simple bug tracker for internal use in organizations.
-   - 🛠️ **Tech Stack**: ASP.NET Core, MS SQL Server
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
