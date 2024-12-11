@@ -41,34 +41,61 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+## 🚀 Projects
+
+### 🌟 Featured Projects
+
+1. **[Business Directory App (CRUD)](https://github.com/your-username/project-1)**
+   - 📝 A mobile app for business directory management with CRUD operations and image upload.
+   - 🛠️ **Tech Stack**: React Native, Firebase, TailwindCSS
+
+2. **[Job-Finding SaaS Platform](https://github.com/your-username/project-2)**
+   - 📝 A SaaS product for job matching and resume filtering.
+   - 🛠️ **Tech Stack**: React, Node.js, MongoDB
+
+3. **[Bug Tracking System](https://github.com/your-username/project-3)**
+   - 📝 A simple bug tracker for internal use in organizations.
+   - 🛠️ **Tech Stack**: ASP.NET Core, MS SQL Server
 
 ---
 
@@ -92,3 +119,4 @@
 ---
 
 > Made with ❤️ by **Ravindu Akalanka**
+
