@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindu Akalanka</h1>
-<h3 align="center">A passionate web developer and tech enthusiast from Sri Lanka</h3>
+<h3 align="center">A passionate web/mobile app developer and tech enthusiast from Sri Lanka</h3>
 
 ---
 
